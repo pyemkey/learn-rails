@@ -13,4 +13,4 @@ console.log('page loaded');
 analytics.pageview();
 analytics.trackForm($('#new_visitor'), 'Signed Up');
 analytics.trackForm($('#new_contact'), 'Contact Request');
-});
+})
